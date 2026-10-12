@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="linkedin.com/in/anuj-pullakandam-6a2643260"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/anuj-pullakandam-6a2643260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">📍 Cleveland, OH</p>
