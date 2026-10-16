@@ -105,6 +105,3 @@ AI agents (orchestration, evaluation, human-in-the-loop design) · Voice and con
 
 Reach me at junap206[at]gmail[dot]com
 
----
-
-<sub>Code for projects involving patient data or unpublished research is kept private. Public releases will be added here as they're cleared.</sub>
