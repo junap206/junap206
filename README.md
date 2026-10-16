@@ -22,7 +22,8 @@
 ### 🧠 Sleep Stage Classification from Wearables
 **Machine Learning Researcher, Cleveland Clinic** · Jul 2026 – Current
 
-Predicting sleep stages (wake, non-REM, REM) from Apple Watch heart rate and motion data using gradient-boosted models, validated against expert-scored EEG sleep staging. Currently studying whether predictions improve as more nights of per-person data become available.
+https://sleep-stage-explorer.vercel.app
+<br/><br/>Predicting sleep stages (wake, non-REM, REM) from Apple Watch heart rate and motion data using gradient-boosted models, validated against expert-scored EEG sleep staging. 
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
@@ -36,12 +37,8 @@ Predicting sleep stages (wake, non-REM, REM) from Apple Watch heart rate and mot
 <img src="https://img.shields.io/badge/Statistics-4C566A?style=flat">
 </p>
 
-> 📄 Paper and repository will be released on publication (target: Winter 2026).
+> 📄 Paper and repository will be released on publication (target: November 2026).
 
-<details>
-<summary><b>Preview</b></summary>
-
-<[Multi-night accelerometry overview (PDF)](https://github.com/user-attachments/files/33359527/Multi.night.accelerometry.overview.pdf)>
 
 
 <!-- ![Results figure](images/sleep-results.png) -->
