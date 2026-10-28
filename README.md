@@ -66,10 +66,9 @@ An AI intake platform piloting with one location of a national home care franchi
 <img src="https://img.shields.io/badge/Docker%20%26%20GitHub%20Actions-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
-<details>
-<summary><b>▶ Demo Videos </b></summary>
+Demo Videos 
   
- <br /> All data shown is synthetic.
+All data shown is synthetic.
 
 ### New inquiry → booked assessment 
 <img width="1914" height="832" alt="Adobe Express - screen shot lead inquiy" src="https://github.com/user-attachments/assets/ff202d67-4809-4ab7-85db-1e37ed2056d8" />
