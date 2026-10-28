@@ -56,7 +56,6 @@ An AI intake platform piloting with one location of a national home care franchi
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat">
 <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat">
 <img src="https://img.shields.io/badge/RAG-4C566A?style=flat">
 <br>
